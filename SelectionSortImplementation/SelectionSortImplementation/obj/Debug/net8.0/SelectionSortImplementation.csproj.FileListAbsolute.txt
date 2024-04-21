@@ -1,0 +1,4 @@
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week3\SelectionSortImplementation\SelectionSortImplementation\obj\Debug\net8.0\SelectionSortImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week3\SelectionSortImplementation\SelectionSortImplementation\obj\Debug\net8.0\SelectionSortImplementation.AssemblyInfoInputs.cache
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week3\SelectionSortImplementation\SelectionSortImplementation\obj\Debug\net8.0\SelectionSortImplementation.AssemblyInfo.cs
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week3\SelectionSortImplementation\SelectionSortImplementation\obj\Debug\net8.0\SelectionSortImplementation.csproj.CoreCompileInputs.cache
